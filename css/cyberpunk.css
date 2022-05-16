@@ -3,8 +3,11 @@
   src: url("/HYZhengYuan/HYZhengYuan-75W.ttf");
 }
 ​,
-* {
+body {
   font-family: 'HYZhengYuanL';
+}
+.code {
+  font-weight: bold;
 }
 @-moz-keyframes spinAround {
   from {

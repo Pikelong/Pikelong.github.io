@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'HYZhengYuan';
-  src: url("https://gitee.com/Piklong/Piklong/raw/main/HYZhengYuan/HYZhengYuan-65W.ttf");
+  font-family: 'HYZhengYuanL';
+  src: url("/HYZhengYuan/HYZhengYuan-95W.ttf");
 }
 ​,
-body {
-  font-family: 'HYZhengYuan';
+* {
+  font-family: 'HYZhengYuanL';
 }
 @-moz-keyframes spinAround {
   from {
